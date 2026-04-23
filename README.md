@@ -17,4 +17,4 @@ A Java AWT-based desktop application to manage and track food expiry dates.
 Helps users manage food efficiently and reduce waste by tracking expiry dates.
 
 ## 📷 Screenshot
-![App Screenshot](screenshot.png)
+![App Screenshot](screenshot.png.png)
